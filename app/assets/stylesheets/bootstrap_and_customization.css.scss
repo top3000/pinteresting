@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+@import 'bootstrap';
+
+.navbar-default .navbar-brand {
+    color: #c0392b;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+    background: white;
+}
+
+.jumbotron h1, .jumbotron .h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.center {
+     text-align: center;
+}
+
+.navbar-brand {
+     font-weight: bold;
+}
