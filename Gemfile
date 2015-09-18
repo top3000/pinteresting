@@ -27,6 +27,7 @@ gem 'coffee-script-source', '1.8.0'
 
 gem 'bootstrap-sass'
 
+gem 'devise', '~> 3.5.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
